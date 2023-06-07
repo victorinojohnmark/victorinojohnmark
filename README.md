@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victorinojohnmark
 - 👀 I’m interested in creating website and web apps.
-- 🌱 I’m currently learning Laravel and soon VueJS
+- 🌱 Experienced in PHP Laravel Framework and now learning VueJS
 - 💞️ I’m looking to collaborate on a project where I can create awesome and cool things.
 - 📫 How to reach me? Email me at victorinojohnmark@gmail.com or at https://facebook.com/victorinojohnmark
 
